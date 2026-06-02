@@ -1,0 +1,10 @@
+Minimalist flat infographic illustration. Horizontal value chain flow with four sequential stations connected by thin arrow lines, from left to right. Station 1: Distribution — icon of a clean chat bubble or network nodes representing digital channels. Station 2: Underwriting — icon of a shield with a checkmark representing AI risk assessment. Station 3: Claims — icon of a document with a checkmark tick representing automated claims processing. Station 4: Service — icon of a speech bubble with a robot or gear representing AI customer service. Visual style: clean minimal flat design, white or very light gray background (#F8F9FA), blue technology accent color (#1E6FDB or similar deep tech blue), thin geometric lines connecting stations, each station in a rounded rectangle card, small label in English below each icon (Distribution, Underwriting, Claims, Service). Overall mood: professional, corporate, tech-forward, B2B insurance industry. Wide horizontal composition, 16:9 ratio. No clutter, lots of white space, modern sans-serif aesthetic. Icons must be simple, outlined or flat-filled in the accent blue. Flow arrows between stations are thin and elegant.
+
+---
+Model: gpt-image-2
+Size: 1792x1024
+Quality: medium
+Output format: png
+Date: 2026-06-02
+Reference: yuval/reference/ (empty — no reference images used)
+Brief: Insurance AI value chain infographic — 4 stations: Distribution, Underwriting, Claims, Service. Minimal, tech-blue accent, white background, horizontal flow, no Hebrew text.

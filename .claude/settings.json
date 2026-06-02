@@ -19,9 +19,16 @@
         "source": "github",
         "repo": "anthropics/skills"
       }
+    },
+    "zerem-obsidian-skills": {
+      "source": {
+        "source": "github",
+        "repo": "ZeremItay/the-5-agents-obsidian"
+      }
     }
   },
   "enabledPlugins": {
-    "example-skills@anthropic-agent-skills": true
+    "example-skills@anthropic-agent-skills": true,
+    "the-5-agents-obsidian@zerem-obsidian-skills": true
   }
 }

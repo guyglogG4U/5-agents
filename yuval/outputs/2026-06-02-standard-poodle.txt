@@ -1,0 +1,9 @@
+A majestic Standard Poodle, full body portrait, standing proudly on a lush green lawn. The poodle has a perfectly groomed, voluminous curly white coat with a traditional Continental clip. Natural studio-quality lighting with soft bokeh background featuring warm golden afternoon tones. Photorealistic, high detail, rich coat texture, elegant posture, expressive dark eyes. Professional pet photography style, shallow depth of field, clean composition.
+
+---
+Model: gpt-image-2
+Size: 1024x1024
+Quality: medium
+Output format: png
+Date: 2026-06-02
+Reference: yuval/reference/ (empty — no reference images used)

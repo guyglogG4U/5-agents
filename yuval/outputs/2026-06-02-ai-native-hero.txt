@@ -1,0 +1,10 @@
+A wide-format hero image (16:9) for a professional business-technology vision article. A confident businessperson in a dark navy suit stands at the center of the frame, positioned as a bridge between two worlds. On the left side: warm analog elements — a wooden desk with paper documents, a handshake silhouette, a vintage pen — bathed in soft amber and gold light. On the right side: sleek digital world — floating translucent UI panels with glowing data charts and network nodes, rendered in cool deep blue and electric white. The two worlds blend seamlessly behind the central figure, creating a visual metaphor of human-led digital transformation. Color palette: deep navy blue (#0D1B2A), clean white, warm gold and amber (#C8962A). Lighting: cinematic, directional, soft bokeh depth. Style: clean, minimal, professional — polished editorial photography aesthetic, not sci-fi or comic. No text, no letters, no numbers anywhere in the image. High detail, premium quality, wide landscape composition.
+
+---
+Model: gpt-image-2
+Size: 1536x1024
+Quality: medium
+Output format: png
+Date: 2026-06-02
+Reference: yuval/reference/ (empty — no reference images used)
+Article: הסוכנות הביטוחית ה-AI-Native

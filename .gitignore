@@ -11,3 +11,12 @@
 
 # Logs
 *.log
+
+# Obsidian — workspace state changes on every open (causes cross-machine conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Yuval outputs — images are binary/heavy; prompts (.txt) stay for regeneration
+yuval/outputs/*.png
+yuval/outputs/*.jpg
+yuval/outputs/*.webp
